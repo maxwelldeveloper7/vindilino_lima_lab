@@ -70,7 +70,7 @@ A extensão é o final do nome do arquivo.
 
 1. Clique com o botão direito do mouse na área de trabalho
 2. Escolha a opção para criar um arquivo de texto
-3. Nomei o arquivo como:
+3. Nomeie o arquivo como:
 
    ```
    arquivo
