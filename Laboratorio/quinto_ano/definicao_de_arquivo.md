@@ -64,24 +64,22 @@ A extensão é o final do nome do arquivo.
 
 ---
 
-## **5. Atividade realizada no laboratório**
-
-Na aula, você realizou uma atividade prática no computador.
+## **5. Atividade no laboratório**
 
 ### **Passo a passo:**
 
-1. Clicou com o botão direito do mouse na área de trabalho
-2. Escolheu a opção para criar um arquivo de texto
-3. Nomeou o arquivo como:
+1. Clique com o botão direito do mouse na área de trabalho
+2. Escolha a opção para criar um arquivo de texto
+3. Nomei o arquivo como:
 
    ```
    arquivo
    ```
-4. Abriu o arquivo usando o programa **Mousepad**
-5. Digitou um texto
-6. Salvou o arquivo
-7. Fechou o programa
-8. Abriu novamente o arquivo
+4. Abra o arquivo usando o programa **Mousepad**
+5. Digite um texto
+6. Salve o arquivo
+7. Feche o programa
+8. Abra novamente o arquivo
 
 ---
 
