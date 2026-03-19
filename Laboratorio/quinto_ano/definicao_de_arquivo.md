@@ -88,9 +88,13 @@ A extensão é o final do nome do arquivo.
 Com essa prática, você aprendeu que:
 
 ✅ Um arquivo pode ser criado
+
 ✅ Podemos escrever dentro dele
+
 ✅ As informações ficam guardadas
+
 ✅ Podemos abrir e editar depois
+
 ✅ O computador precisa de um programa para abrir arquivos
 
 ---
