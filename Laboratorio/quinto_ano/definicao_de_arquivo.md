@@ -147,3 +147,12 @@ Aprender a criar e usar arquivos é o primeiro passo para aprender programação
 | Mundo Digital | Arquitetura de computadores | **(EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento).**  |
 
 
+### **Orientações de Uso do Material**
+
+Este material foi elaborado com base em metodologias ativas que favorecem a participação e o aprendizado prático dos alunos. Recomenda-se que a atividade seja realizada **em pares**, promovendo a colaboração, o diálogo e a troca de conhecimentos entre os estudantes.
+
+A proposta também segue a abordagem **maker**, incentivando o “aprender fazendo”, em que o aluno cria, edita e manipula arquivos, construindo seu conhecimento de forma concreta e significativa.
+
+Além disso, o conteúdo está organizado em pequenos blocos, caracterizando o **microlearning**, o que facilita a compreensão gradual, reduz a sobrecarga cognitiva e permite que cada etapa seja assimilada antes de avançar para a próxima.
+
+Dessa forma, o material deve ser utilizado de maneira prática, orientada e progressiva, garantindo que o aluno participe ativamente do processo de aprendizagem.
