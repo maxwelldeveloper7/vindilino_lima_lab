@@ -1,6 +1,8 @@
 # **Atividade no laboratório de informática – Trabalhando com Arquivos**
 
-## **1. O que é um arquivo?**
+## **1. Arquivo**
+
+![](./assets/images/O_que_e_um_arquivo_.png)
 
 Um **arquivo** é um lugar onde guardamos informações.
 
