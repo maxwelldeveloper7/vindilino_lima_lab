@@ -1,0 +1,48 @@
+{
+    "eixo": "Cultura Digital",
+    "objeto de conhecimento": {
+        "Uso de tecnologias computacionais": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO07) Utilizar diferentes navegadores e ferramentas de busca para pesquisar e acessar informações."
+                    },
+                    {
+                        "Explicação": "Nesta habilidade temos a perspectiva que o aluno possa explorar diferentes navegadores e buscadores, conhecendo aspectos gerais das ferramentas de busca como associação de palavras, as abas em cada um deles, filtros, dentre outros. Além disso, por meio das pesquisas apresentar os cuidados na busca das informações desejadas."
+                    },
+                    {
+                        "Exemplos": "O professor pode solicitar uma pesquisa simples em algum site de escolha do docente, sobre temas como um personagem de desenho animado por exemplo, em que os alunos poderão verificar os diferentes resultados da busca, verificando filtros de pesquisa, testando novas palavras associadas a escolhida primeiramente e assim os diferentes tipos de informação sobre um mesmo assunto."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO08) Usar ferramentas computacionais em situações didáticas para se expressar em diferentes formatos digitais."
+                    },
+                    {
+                        "Explicação": "O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como jogos educacionais, programas de animação, ferramentas de desenho dentre outros, expressar ideias."
+                    },
+                    {
+                        "Exemplos": "O professor poderá utilizar uma ferramenta de desenho para os alunos criarem uma figura que represente suas férias ou algum evento importante."
+                    }
+                ]
+            }
+        ],
+        "Segurança e responsabilidade no uso da tecnologia": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO09) Reconhecer o potencial impacto do compartilhamento de informações pessoais ou de seus pares em meio digital."
+                    },
+                    {
+                        "Explicação": "A proposta nesta habilidade é que o aluno possa identificar alguns dos principais impactos de compartilhar informações pessoais com colegas ou pessoas em meio digital, como por exemplo endereço, nomes das pessoas da família, onde estuda, onde mora. Essas informações podem ser utilizadas por pessoas de forma mal-intencionadas, quando os alunos trocam informações online por celular, computador ou até mesmo quando estão jogando na internet."
+                    },
+                    {
+                        "Exemplos": "O professor poderá apresentar um caso em que foram utilizados dados roubados de pessoas, solicitando aos alunos que destaquem o que pode ter acontecido para que os dados pudessem ter sido roubados. Poderá ainda, a partir do que foi levantado pelos alunos, criar um painel com imagens dos dispositivos computacionais como tablets, celular, computador, apontando em cada um os impactos de acordo com o que mais se utiliza nesses dispositivos."
+                    }
+                ]
+            }
+        ]
+    }
+}

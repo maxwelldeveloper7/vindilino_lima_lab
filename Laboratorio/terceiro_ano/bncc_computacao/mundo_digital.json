@@ -1,0 +1,48 @@
+{
+    "eixo": "Mundo Digital",
+    "objeto de conhecimento": {
+        "Codificação da informação": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO04) Relacionar o conceito de informação com o de dado."
+                    },
+                    {
+                        "Explicação": "Para que um computador possa armazenar, transmitir ou manipular uma informação é preciso processá-la e representá-la como um conjunto de dados (símbolos). A habilidade trabalha a diferença entre esses dois conceitos."
+                    },
+                    {
+                        "Exemplos": "Pode-se mostrar exemplos de dados que individualmente não possuem significado relevante, mas que, em conjunto, definem alguma informação. Por exemplo, cada um dos dados de um endereço (tipo e nome do logradouro, CEP, município etc.), em conjunto, definem a informação de um endereço específico, os dados de dia, mês e ano definem uma data específica, as cores de cada pixel, juntas, definem uma imagem etc."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO05) Compreender que dados são estruturados em formatos específicos dependendo da informação armazenada."
+                    },
+                    {
+                        "Explicação": "A Computação emprega diferentes técnicas para organizar dados de forma estruturada para representar informação. Cada tipo de informação possui uma estratégia de representação. Textos podem ser representados como uma sequência de números decimais, onde cada número representa um caractere (como é feito com o uso da tabela ASCII), uma imagem pode ser representada como uma sequência de números decimais que definem a cor de cada elemento de um reticulado uniforme que divide a imagem (pixel) etc."
+                    },
+                    {
+                        "Exemplos": "Mostrar que para representar informação às vezes é necessário combinar diferentes tipos de dados. A informação sobre uma data pode ser recuperada pelo processamento de uma composição de dados de um dia, de um mês e de um ano em uma determinada ordem. Imagens podem ser representados por composições de cores em determinados pontos (pixels) etc."
+                    }
+                ]
+            }
+        ],
+        "Interface física": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO06) Reconhecer que, para um computador realizar tarefas, ele se comunica com o mundo exterior com o uso de interfaces físicas (dispositivos de entrada e saída)."
+                    },
+                    {
+                        "Explicação": "É importante entender que o computador se comunica com o mundo exterior com dispositivos físicos próprios. Alguns dos dispositivos permitem fornecer informações para os computadores, os dispositivos de entrada (teclado, mouse, microfone, sensores, antena etc.), enquanto outros permitem que o computador transmita informações para o mundo exterior, os dispositivos de saída (monitor, alto-falante, impressora etc.)."
+                    },
+                    {
+                        "Exemplos": "Exemplificar os diferentes tipos de dispositivos de entrada (teclado, mouse, microfone, sensores, antena etc.) e de dispositivos de saída (monitor, alto-falante, impressora etc.)"
+                    }
+                ]
+            }
+        ]
+    }
+}
