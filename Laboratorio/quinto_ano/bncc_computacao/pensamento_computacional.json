@@ -1,0 +1,63 @@
+{
+    "eixo": "Pensamento Computacional",
+    "objeto de conhecimento": {
+        "Listas e grafos": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de listas que estabelecem uma organização na qual há um número variável de itens dispostos em sequência, fazendo manipulações simples sobre estas representações."
+                    },
+                    {
+                        "Explicação": "Listas são estruturas de dados que agrupam itens organizados (logicamente) um depois do outro. As listas não têm um tamanho pré- definido, o que permite a resolução de problemas que tratam argumentos de diferentes tamanhos (um algoritmo que descreve como gerenciar uma fila de pessoas em um caixa é o mesmo, independentemente do tamanho da fila). A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como listas e usem algum tipo de representação (podendo ser visual) para ilustrá- los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar, alterar e inserir informações nas listas. Exemplos de objetos que podem ser representados usando listas: filas de pessoas, pilhas de cartas, lista de itens, pilha de pratos, lista de alunos de uma turma, lista de notas musicais etc."
+                    },
+                    {
+                        "Exemplos": "O professor pode fornecer um monte de cartas agrupadas por naipes e em cada naipe as cartas estão ordenadas por seus valores. Fornecer novas cartas, solicitar que os alunos as incluam no baralho mantendo a ordem e registrem as cartas vizinhas. O professor também pode solicitar que todas as cartas de um determinado valor sejam substituídas por cartas curingas ou retiradas do monte. Outra tarefa que pode ser dada é fazer a busca por uma carta específica que pode ou não estar no monte de cartas."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO02) Reconhecer objetos do mundo real e digital que podem ser representados através de grafos que estabelecem uma organização com uma quantidade variável de vértices conectados por arestas, fazendo manipulações simples sobre estas representações."
+                    },
+                    {
+                        "Explicação": "Grafos são um tipo de estrutura usada para representar relações entre objetos. Eles são descritos por vértices (objetos) e arestas (relações). Os grafos também não têm um tamanho pré-definido, o que permite a resolução de problemas que tratam argumentos de diferentes tamanhos (Um algoritmo que encontra um caminho em um mapa pode ter como entrada tanto um mapa de uma região como um mapa de um país.). A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como grafos e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar informações ou encontrar caminhos nos grafos. Exemplos de objetos que podem ser representados usando grafos: mapas, redes sociais, internet, redes de computadores, árvores genealógicas, chaveamento de times em um campeonato etc."
+                    },
+                    {
+                        "Exemplos": "O professor pode distribuir, para diferentes grupos os alunos, mapas do bairro onde alguns prédios estão marcados. Pedir que eles tracem linhas ligando esses prédios sempre que houver um caminho entre eles sem passar na frente de outro (dentre os marcados). Marcar na linha traçada o número de quadras de cada caminho considerado. Pedir que os grupos comparem seus grafos para verificar se todos tem as mesmas arestas ou não e qual o número de quadras dos caminhos encontrados. Depois pode-se construir conjuntamente a representação do grafo, considerando os menores caminhos encontrados dentre os resultados de cada grupo. Com a representação única pedir que tracem rotas passando por determinados prédios, calculando o número de quadras que se deve andar para chegar no destino. Voltar ao mapa e traçar as rotas identificadas no grafo, nas ruas do bairro. O professor pode distribuir os perfis fictícios de diferentes pessoas em alguma rede social, indicando amigos comuns entre os donos dos perfis. Pedir que representem a relação de amizade através de um grafo, no qual as pessoas são representadas por vértices e a amizade pelas arestas. Depois fazer perguntas sobre amigos comuns, 'distância' de amizades etc."
+                    }
+                ]
+            }
+        ],
+        "Lógica computacional": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO03) Realizar operações de negação, conjunção e disjunção sobre sentenças lógicas e valores 'verdadeiro' e 'falso'."
+                    },
+                    {
+                        "Explicação": "Os valores de sentenças lógicas podem ser modificados ou combinados usando operações lógicas como negação (NÃO), conjunção (E) e disjunção (OU). A operação da negação modifica o valor da sentença lógica invertendo seu valor, isto é, uma sentença verdadeira torna-se falsa quando aplicada a operação de negação e vice- versa."
+                    },
+                    {
+                        "Exemplos": "O professor pode apresentar diferentes sentenças lógicas e solicitar que os alunos determinem seus valores verdade, como por exemplo: Cinco é maior que seis. (Falso) Cinco NÃO é maior que seis. (Verdadeiro) Cinco é maior que seis E maior que dois. (Falso) Cinco é maior que seis OU maior que dez. (Falso) Cinco é maior que seis OU maior que dois. (Verdadeiro)"
+                    }
+                ]
+            }
+        ],
+        "Algoritmos com seleção condicional": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO04) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências, repetições e seleções condicionais para resolver problemas de forma independente e em colaboração."
+                    },
+                    {
+                        "Explicação": "Além de construir algoritmos com sequências de instruções, repetidas ou não, muitas vezes é necessário fazer escolhas sobre qual ação a ser executada a seguir. Escolhas são feitas a partir de situações (condições definidas por sentenças lógicas), como, por exemplo, ao chegar em um semáforo, dependendo de sua cor, a ação a ser realizada é diferente."
+                    },
+                    {
+                        "Exemplos": "O professor pode solicitar que os alunos simulem um algoritmo que descreve o que fazer para atravessar uma rua com semáforo usando a instrução de seleção condicional: um trecho deste algoritmo poderia ser: 'se o semáforo estiver vermelho OU amarelo, aguardar na calçada, caso contrário, atravessar a rua'. Além disso, pode solicitar que os alunos determinem os passos de um algoritmo que faça uso da seleção condicional, como por exemplo, definir as ações que devem ser realizadas ao chegar em algum local caso este esteja aberto ou fechado."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,30 +1,47 @@
 {
     "eixo": "Pensamento Computacional",
     "objeto de conhecimento": {
-        "Matrizes e registros": [
+        "Lógica computacional": [
             {
                 "Habilidades": [
                     {
-                        "Habilidade": "(EF04CO01) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de matrizes que estabelecem uma organização na qual cada componente está em uma posição definida por coordenadas, fazendo manipulações simples sobre estas representações."
+                        "Habilidade": "(EF03CO01) Associar os valores 'verdadeiro' e 'falso' a sentenças lógicas que dizem respeito a situações do dia a dia, fazendo uso de termos que indicam negação."
                     },
                     {
-                        "Explicação": "Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração. Matrizes são um tipo de estrutura de dados organizadas em linhas e colunas assim como as tabelas. As matrizes possuem um tamanho pré-definido e todos os dados que fazem parte da estrutura são do mesmo tipo. Um dado específico é acessado em uma matriz através de coordenadas (x,y) que indicam a linha e a coluna em que esse se localiza. Matrizes compostas de uma única linha são denominadas vetores. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como matrizes e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar e alterar informações nas matrizes. Exemplos de objetos que podem ser caracterizados como matrizes: tabuleiro de batalha naval, tabuleiro de xadrez, caixa de ovos, organização de classes em uma sala, janelas na fachada de um prédio etc."
+                        "Explicação": "As sentenças lógicas são sentenças declarativas que representam a constatação de um fato pelo emissor, podendo ser afirmativas ou negativas. Quando se faz uma declaração, ela pode ser 'verdadeira' ou 'falsa'. Esses termos definem os possíveis valores (verdade) para as sentenças lógicas. Comparações de tamanho, peso ou cor de objetos tem como resultado um valor lógico ('verdadeiro' ou 'falso'). O valor de uma sentença lógica pode ser modificado usando a operação de negação, indicada por termos como NÃO e NÃO É VERDADE QUE."
                     },
                     {
-                        "Exemplos": "O professor pode solicitar que os alunos construam o tabuleiro (usando uma matriz) e joguem a batalha naval, onde os tiros são dados informando as coordenadas no tabuleiro. Outra atividade que pode ser feita é apresentar diferentes fachadas de prédios e solicitar que os alunos representem a distribuição das janelas por matrizes, registrando nas correspondentes coordenadas as características de cada janela (por exemplo, aberta ou fechada, com cortina ou não, com persiana ou não). Com essas representações, os alunos podem fazer um jogo estilo 'cara a cara' onde cada jogador escolhe secretamente uma janela (por exemplo 2a janela do 3o andar) e o adversário deve descobrir a janela escolhida. Para isso, os jogadores devem fazer perguntas, sobre as características das janelas, que permitam ir descartando janelas até descobrir a janela escolhida pelo adversário. O registro das janelas descartadas deve ser feito na matriz que representa a fachada do prédio."
+                        "Exemplos": "O professor pode apresentar diferentes sentenças lógicas e solicitar que os alunos determinem seus valores verdade, como por exemplo: Cinco é maior que seis. (Falso) Cinco NÃO é maior que seis. (Verdadeiro) A raiz é uma das partes de uma planta. (Verdadeiro) A raiz NÃO é uma das partes de uma planta. (Falso)"
                     }
                 ]
-            },
+            }
+        ],
+        "Algoritmos com repetições condicionais simples": [
             {
                 "Habilidades": [
                     {
-                        "Habilidade": "(EF04CO02) Reconhecer objetos do mundo real e/ou digital que podem ser representados através de registros que estabelecem uma organização na qual cada componente é identificado por um nome, fazendo manipulações sobre estas representações."
+                        "Habilidade": "(EF03CO02) Criar e simular algoritmos representados em linguagem oral, escrita ou pictográfica, que incluam sequências e repetições simples com condição (iterações indefinidas), para resolver problemas de forma independente e em colaboração."
                     },
                     {
-                        "Explicação": "Informações podem ser organizadas em estruturas, denominadas estruturas de dados. Essas estruturas permitem uma melhor compreensão e também facilitam a manipulação das informações. Uma estrutura de dados esconde a particularidade de diferentes informações, permitindo que sejam vistas como objetos únicos, ou seja, é uma forma de abstração. Registros, que são agrupamentos de informações, são um tipo de estrutura de dados que possui um tamanho pré- definido e os dados agrupados podem ser de diferentes tipos. Uma informação específica de um registro é acessada através de um identificador (ou nome) associado a ela. A ideia aqui é que os alunos consigam identificar objetos estruturados no mundo real que possam ser caracterizados como registros e usem algum tipo de representação (podendo ser visual) para ilustrá-los. Além disso, devem realizar manipulações simples sobre essas representações como recuperar e alterar informações nos registros. Exemplos de objetos que podem ser caracterizados como registros: carteira de estudante, boletim, ficha de cadastro de aluno, descrição de qualquer objeto/pessoa (escolhendo um conjunto de atributos) etc."
+                        "Explicação": "Os algoritmos aqui devem ser descritos através de sequências de instruções que podem ser repetidas um número de vezes que não é conhecido de antemão. Nestes casos, esta repetição é controlada por alguma condição (sentença lógica). Os ciclos de repetição devem ser simples, isto é, não devem conter outros ciclos."
                     },
                     {
-                        "Exemplos": "O professor pode distribuir imagens de documentos de identidade de pessoas fictícias e solicitar que os alunos identifiquem quais informações estão disponíveis nos documentos, como por exemplo nome, registro geral, filiação, naturalidade, data de nascimento etc. Pedir que os alunos separem os documentos cujas pessoas tenham nascido em um determinado ano ou tenham nascido em uma determinada cidade. O docente pode ainda solicitar que identifiquem qual é a cidade em que a maioria das pessoas nasceu. Outra atividade que pode ser feita é solicitar que os alunos, em grupos, criem um formulário para coletar informações anônimas sobre os colegas como características físicas, gostos sobre comida, time de futebol, jogo/brincadeira, filmes etc. Após distribuir aos colegas de grupos diferentes para que completem e devolvam ao grupo. De posse dos formulários preenchidos, os grupos devem identificar qual o colega que preencheu cada formulário."
+                        "Exemplos": "Os alunos podem construir algoritmos com conjuntos de instruções como ações para avançar, virar à direita, virar à esquerda. Para descrever a tarefa de andar em um tabuleiro até encontrar um obstáculo, pode-se definir o seguinte algoritmo: 'Enquanto a próxima posição estiver vazia, ande um passo'. Nesse exemplo, o número de vezes em que a ação 'andar um passo' será repetida é determinado pelo valor lógico da sentença 'a próxima posição está vazia'. Caso o valor seja 'verdadeiro', o ciclo de repetição continua, caso contrário ele será interrompido."
+                    }
+                ]
+            }
+        ],
+        "Pensamento computacional": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF03CO03) Aplicar a estratégia de decomposição para resolver problemas complexos, dividindo esse problema em partes menores, resolvendo-as e combinando suas soluções."
+                    },
+                    {
+                        "Explicação": "Decomposição é uma das principais técnicas de resolução de problemas, na qual um problema é dividido em subproblemas, os quais são resolvidos independentemente, e cujas soluções são combinadas para construir a solução do problema original. Algumas vantagens da decomposição são: - permitir uma melhor organização e visualização do problema e da solução; - facilitar o trabalho em grupo; - permitir que possamos reutilizar as soluções dos subproblemas em outros problemas."
+                    },
+                    {
+                        "Exemplos": "Criar uma receita (algoritmo) que descreva a tarefa (problema) de preparar o café da manhã, pode-se dividir essa tarefa em duas etapas (subproblemas): preparar o café e fazer um sanduíche. Cada etapa pode ser descrita por receitas independentes, criadas pela mesma pessoa ou pessoas diferentes. A solução do problema inicial é obtida combinando as duas receitas (algoritmos). Uma possível combinação é realizar todos os passos da receita do sanduíche e depois todos os passos da receita do café. Outra combinação poderia intercalar os passos das duas receitas, podendo, por exemplo, iniciar aquecendo a água para o café, após preparar o sanduíche e por fim terminar o café."
                     }
                 ]
             }

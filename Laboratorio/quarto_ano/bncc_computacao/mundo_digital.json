@@ -1,0 +1,33 @@
+{
+    "eixo": "Mundo Digital",
+    "objeto de conhecimento": {
+        "Codificação da informação": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF04CO04) Entender que para guardar, manipular e transmitir dados deve-se codificá-los de alguma forma que seja compreendida pela máquina (formato digital)."
+                    },
+                    {
+                        "Explicação": "Um processador é formado por circuitos eletrônicos que operam apenas em dois níveis de tensão. Por isso, o sistema binário (0 e 1) é o sistema de numeração usado para codificação em formato digital. Isso implica que para que um computador possa guardar, manipular e transmitir dados, precisamos codificá-los utilizando diferentes estratégias."
+                    },
+                    {
+                        "Exemplos": "Pode-se utilizar a tabela ASCII de codificação de caracteres. Por exemplo, quando se utiliza a tabela ASCII de codificação, a letra 'A' é representada pelo número decimal 65, que é codificado em binário como 1000001."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF04CO05) Codificar diferentes informações para representação em computador (binária, ASCII, atributos de pixel, como RGB etc.)."
+                    },
+                    {
+                        "Explicação": "Existem diferentes estratégias de representação em formato digital para diferentes tipos de informação. Conhecê-las é um passo importante para o desenvolvimento de algoritmos que trabalhem com tipos diferentes de informação."
+                    },
+                    {
+                        "Exemplos": "Pode-se utilizar como exemplos a tabela ASCII, que especifica como codificar caracteres em formato digital, ou os formatos de imagem 'Portable BitMap' e 'Portable GrayMap', que codificam uma imagem de forma simples usando uma matriz de 0 e 1 (branco e preto) ou com uma matriz com valores entre 0 e 255 (tons de cinza), respectivamente."
+                    }
+                ]
+            }
+        ]
+    }
+}

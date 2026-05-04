@@ -1,0 +1,48 @@
+{
+    "eixo": "Cultura Digital",
+    "objeto de conhecimento": {
+        "Uso de tecnologias computacionais": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF04CO06) Usar diferentes ferramentas computacionais para criação de conteúdo (textos, apresentações, vídeos etc.)."
+                    },
+                    {
+                        "Explicação": "O objetivo desta habilidade é que o aluno possa explorar diversas ferramentas computacionais como editor de texto, editor de imagem, editor de apresentações, programa de história em quadrinhos, animação dentre outros, para produzir conteúdo em projetos, atividades diversas."
+                    },
+                    {
+                        "Exemplos": "O professor poderá propor um projeto de criação de uma história digital ou um vídeo de curta duração, em que os alunos experimentam os recursos de um editor de texto ou de vídeo."
+                    }
+                ]
+            }
+        ],
+        "Segurança e responsabilidade no uso de tecnologia": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF04CO07) Demonstrar postura ética nas atividades de coleta, transferência, guarda e uso de dados."
+                    },
+                    {
+                        "Explicação": "Propõe-se que o aluno reflita sobre aspectos éticos relacionados a manipulação de dados, como por exemplo quando assiste e faz download, compartilha uma imagem, dentre outros."
+                    },
+                    {
+                        "Exemplos": "Construção de um painel, a partir das imagens de tecnologias como o celular e computador, em que os alunos poderão destacar ações importantes de quando se manipula um dado como imagem, música, vídeo, informação, como verificar as permissões, autoria, dentre outros."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF04CO08) Reconhecer a importância de verificar a confiabilidade das fontes de informações obtidas na Internet."
+                    },
+                    {
+                        "Explicação": "Propõe-se que o aluno reflita sobre aspectos éticos relacionados a manipulação de dados, como por exemplo quando assiste e faz download, compartilha uma imagem, dentre outros."
+                    },
+                    {
+                        "Exemplos": "O professor poderá organizar casos em que se precisa de determinadas informações e ao se deparar com elas, se verifica que muitas dessas informações estão equivocadas, comparando páginas que tratam do mesmo tema, mas com informações diferentes como por exemplo em uma biografia."
+                    }
+                ]
+            }
+        ]
+    }
+}
