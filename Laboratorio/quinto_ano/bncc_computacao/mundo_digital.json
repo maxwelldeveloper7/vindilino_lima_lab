@@ -1,0 +1,50 @@
+{
+    "eixo": "Mundo Digital",
+    "objeto de conhecimento": {
+        "Arquitetura de computadores": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO05) Identificar os componentes principais de um computador (dispositivos de entrada/saída, processadores e armazenamento)."
+                    },
+                    {
+                        "Explicação": "O objetivo é começar a ensinar ao aluno os elementos principais que compõem a arquitetura de um computador: dispositivos de entrada/saída, processadores e dispositivos de armazenamento temporários (ex: memória RAM) e persistentes (ex: disco rígido)."
+                    },
+                    {
+                        "Exemplos": "Explicar os componentes básicos dos computadores e suas funções: processador, memória, e exemplos de diferentes dispositivos de entrada e saída."
+                    }
+                ]
+            }
+        ],
+        "Armazenamento de dados": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO06) Reconhecer que os dados podem ser armazenados em um dispositivo local ou remoto."
+                    },
+                    {
+                        "Explicação": "O objetivo é começar a ensinar ao aluno os elementos principais que compõem a arquitetura de um computador: dispositivos de entrada/saída, processadores e dispositivos de armazenamento temporários (ex: memória RAM) e persistentes (ex: disco rígido)."
+                    },
+                    {
+                        "Exemplos": "Explicar os componentes básicos dos computadores e suas funções: processador, memória, e exemplos de diferentes dispositivos de entrada e saída."
+                    }
+                ]
+            }
+        ],
+        "Sistema operacional": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO07) Reconhecer a necessidade de um sistema operacional para a execução de programas e gerenciamento do hardware."
+                    },
+                    {
+                        "Explicação": "Os dispositivos físicos de um computador são gerenciados por um software que denominamos Sistema Operacional. O objetivo da habilidade é explicitar a existência desse software e mostrar que é ele o responsável por gerenciar os recursos de um computador (define qual programa pode utilizar o processador, gerencia os dispositivos físicos da máquina etc.)"
+                    },
+                    {
+                        "Exemplos": "Os dispositivos físicos que compõem um computador não funcionam sozinhos. É preciso mostrar que a operação desses dispositivos é controlada por um software que denominamos Sistema Operacional. É possível falar sobre algumas das funções de um sistema operacional (gerenciamento da memória, de sistemas de arquivos, de dispositivos de entrada e saída como teclado, mouse, monitores, impressoras etc.). Também é possível mostrar que existem vários Sistemas Operacionais diferentes (Windows, Linux, macOS etc.)"
+                    }
+                ]
+            }
+        ]
+    }
+}

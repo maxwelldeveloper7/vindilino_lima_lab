@@ -1,0 +1,61 @@
+{
+    "eixo": "",
+    "objeto de conhecimento": {
+        "Segurança e responsabilidade no uso da tecnologia": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO08) Acessar as informações na Internet de forma crítica para distinguir os conteúdos confiáveis de não confiáveis."
+                    },
+                    {
+                        "Explicação": "Nesta habilidade é importante que os alunos possam refletir e acessar informações em buscas na Internet criticamente, identificando características de conteúdos prejudiciais, informações confiáveis, notícias falsas."
+                    },
+                    {
+                        "Exemplos": "O professor pode propor um estudo comparativo entre sites de jornais oficiais e blogs para falar sobre as fontes de informação, considerando sua confiabilidade."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO09) Usar informações considerando aplicações e limites dos direitos autorais em diferentes mídias digitais."
+                    },
+                    {
+                        "Explicação": "O objetivo desta habilidade é que o aluno possa utilizar informações e dados na Internet reconhecendo os direitos autorais, como por exemplo de uma música, um filme, um livro, e os cuidados em seu compartilhamento e uso pessoal."
+                    },
+                    {
+                        "Exemplos": "O aluno poderá criar um portfólio com imagens de personagens de desenhos animados em que ele poderá citar as fontes e propor um formato em que considera todos os direitos autorais"
+                    }
+                ]
+            }
+        ],
+        "Uso de tecnologias computacionais": [
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO10) Expressar-se crítica e criativamente na compreensão das mudanças tecnológicas no mundo do trabalho e sobre a evolução da sociedade."
+                    },
+                    {
+                        "Explicação": "Espera-se que o aluno possa expressar-se crítica e criativamente por meio de dispositivos computacionais ou não, demonstrando compreensão das mudanças que as tecnologias trazem ao cotidiano, incluindo mundo do trabalho."
+                    },
+                    {
+                        "Exemplos": "Nessa habilidade, o aluno poderá criar uma animação em computador ou papel sobre alguma impressão que ele tenha sobre um impacto da tecnologia na sociedade, como por exemplo uso do celular para mandar mensagem de áudio ao invés de uma chamada, comum no cotidiano das pessoas."
+                    }
+                ]
+            },
+            {
+                "Habilidades": [
+                    {
+                        "Habilidade": "(EF05CO011) Identificar a adequação de diferentes tecnologias computacionais na resolução de problemas."
+                    },
+                    {
+                        "Explicação": "Nesta habilidade propõe-se que os alunos possam compreender diferentes necessidades de uso das tecnologias computacionais, como por exemplo porque usamos um computador para criar uma história em quadrinhos e usamos um celular para fazer uma ligação telefônica."
+                    },
+                    {
+                        "Exemplos": "O professor pode propor um jogo em que apresenta alguns problemas que precisam de solução usando diferentes tecnologias e os alunos individualmente ou em grupos buscam a solução escolhendo a melhor tecnologia considerando diferentes critérios."
+                    }
+                ]
+            }
+        ]
+    }
+}
